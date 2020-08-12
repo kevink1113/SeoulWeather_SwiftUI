@@ -20,3 +20,4 @@ of Seoul.
 <img src="https://user-images.githubusercontent.com/48401272/89965947-fefedd00-dc88-11ea-8ded-78505a141eb0.PNG" width="200"></img>
 <img src="https://user-images.githubusercontent.com/48401272/89966149-716fbd00-dc89-11ea-98ba-2646cf2d8a73.PNG" width="200"></img>
 </div>
+Changes background color depending on current weather status.
