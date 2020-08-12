@@ -15,6 +15,7 @@
 		006C24C324E379CB00D1ABA8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 006C24C124E379CB00D1ABA8 /* LaunchScreen.storyboard */; };
 		006C24CE24E379CB00D1ABA8 /* SeoulWeather_SwiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 006C24CD24E379CB00D1ABA8 /* SeoulWeather_SwiftUITests.swift */; };
 		006C24D924E379CB00D1ABA8 /* SeoulWeather_SwiftUIUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 006C24D824E379CB00D1ABA8 /* SeoulWeather_SwiftUIUITests.swift */; };
+		006C24E724E37A8B00D1ABA8 /* Weather.swift in Sources */ = {isa = PBXBuildFile; fileRef = 006C24E624E37A8B00D1ABA8 /* Weather.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		006C24D424E379CB00D1ABA8 /* SeoulWeather_SwiftUIUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SeoulWeather_SwiftUIUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		006C24D824E379CB00D1ABA8 /* SeoulWeather_SwiftUIUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeoulWeather_SwiftUIUITests.swift; sourceTree = "<group>"; };
 		006C24DA24E379CB00D1ABA8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		006C24E624E37A8B00D1ABA8 /* Weather.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Weather.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				006C24B624E379C900D1ABA8 /* AppDelegate.swift */,
 				006C24B824E379C900D1ABA8 /* SceneDelegate.swift */,
 				006C24BA24E379C900D1ABA8 /* ContentView.swift */,
+				006C24E624E37A8B00D1ABA8 /* Weather.swift */,
 				006C24BC24E379CB00D1ABA8 /* Assets.xcassets */,
 				006C24C124E379CB00D1ABA8 /* LaunchScreen.storyboard */,
 				006C24C424E379CB00D1ABA8 /* Info.plist */,
@@ -267,6 +270,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				006C24E724E37A8B00D1ABA8 /* Weather.swift in Sources */,
 				006C24B724E379C900D1ABA8 /* AppDelegate.swift in Sources */,
 				006C24B924E379C900D1ABA8 /* SceneDelegate.swift in Sources */,
 				006C24BB24E379C900D1ABA8 /* ContentView.swift in Sources */,
