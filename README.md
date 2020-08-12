@@ -14,3 +14,5 @@ This app features
 - Cloud percentage
 
 of Seoul.
+
+
